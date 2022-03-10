@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/page3", {data:[{}],fetch:{},mutations:void 0});
